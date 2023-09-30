@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newsletter-sign-up-with-success-message/static/css/main.322ba3dd.css",
-    "main.js": "/newsletter-sign-up-with-success-message/static/js/main.ee7da68e.js",
+    "main.js": "/newsletter-sign-up-with-success-message/static/js/main.02745edd.js",
     "static/js/787.36534028.chunk.js": "/newsletter-sign-up-with-success-message/static/js/787.36534028.chunk.js",
     "static/media/illustration-sign-up-mobile.svg": "/newsletter-sign-up-with-success-message/static/media/illustration-sign-up-mobile.46cac1e6aa0a2974bfa5.svg",
     "static/media/illustration-sign-up-desktop.svg": "/newsletter-sign-up-with-success-message/static/media/illustration-sign-up-desktop.9b04553c4b450b11eea4.svg",
@@ -9,11 +9,11 @@
     "static/media/icon-success.svg": "/newsletter-sign-up-with-success-message/static/media/icon-success.429dc31314e5ac901131.svg",
     "static/media/icon-list.svg": "/newsletter-sign-up-with-success-message/static/media/icon-list.653a97828bad333b8918.svg",
     "main.322ba3dd.css.map": "/newsletter-sign-up-with-success-message/static/css/main.322ba3dd.css.map",
-    "main.ee7da68e.js.map": "/newsletter-sign-up-with-success-message/static/js/main.ee7da68e.js.map",
+    "main.02745edd.js.map": "/newsletter-sign-up-with-success-message/static/js/main.02745edd.js.map",
     "787.36534028.chunk.js.map": "/newsletter-sign-up-with-success-message/static/js/787.36534028.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.322ba3dd.css",
-    "static/js/main.ee7da68e.js"
+    "static/js/main.02745edd.js"
   ]
 }
