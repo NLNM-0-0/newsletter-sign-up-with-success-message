@@ -4,10 +4,10 @@ import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 import AppForm from "./code/AppForm";
 
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import { SuccessMessage } from "./code/SuccessMessage";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <AppForm />,
